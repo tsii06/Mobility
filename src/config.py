@@ -1,9 +1,9 @@
 DATABASE_CONFIG = {
-    'dbname': 'boss',
+    'dbname': 'railway',
     'user': 'postgres',
-    'password': 'pronokeys06',
-    'host': 'localhost',
-    'port': '5432',
+    'password': 'zXRpecsQhevMdzPLpjlbXozzqPUTOTyy',
+    'host': 'autorack.proxy.rlwy.net',
+    'port': '42140',
 }
 
 
