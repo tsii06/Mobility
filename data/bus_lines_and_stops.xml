@@ -1,0 +1,1730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<busRoutes>
+    <route id="tj_015_Mandroseza" color="0,0,129">
+        <stop name="Arret_Shell_Mandroseza_Amohimiandra" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        <stop name="Arret_Jirama_mandroseza_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 194_maintso E_Alasora" />
+        <stop name="Arret_Ceg_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="192 015 116" />
+        <stop name="Arret_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_UCM_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 192 194" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_306_Manakambahiny_tsimbazaza" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Terminus_Ambotrimanjaka" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="ligne_D" />
+        <stop name="Terminus_119_Ny_Havana" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="119" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Terminus_017_Mahamasina" osm_id="E20" coordinates="None" lines="017" />
+        <stop name="Arret_Mahamasina" osm_id="E20" coordinates="None" lines="015" />
+        <stop name="Terminus_184_Mahamasina" osm_id="566072906" coordinates="47.5243149, -18.9187904" lines="184 128" />
+        <stop name="Arret_GerbOr_Mahamasina" osm_id="28914865" coordinates="47.5243627, -18.920206" lines="015 184 017" />
+        <stop name="Arret_College-de-france-Ankadilalana" osm_id="577152036" coordinates="47.5282248, -18.9346949" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_306_Manakambahiny" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arrêt_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 194 192" />
+        <stop name="Arret_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="194_maintso 015" />
+        <stop name="Arret_Jirama_Mandroseza" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 E_Alasora 194_maintso" />
+        <stop name="Arret_Shell_Mandroseza" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        </route>
+    <route id="tj_017_Ambohipo" color="0,0,129">
+        <stop name="Primius_017_Ambohipo" osm_id="528675704" coordinates="47.5567431, -18.9256113" lines="017" />
+        <stop name="Primius_129_Ambihipo" osm_id="620504837" coordinates="47.5565141, -18.9254589" lines="129" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_306_Manakambahiny_tsimbazaza" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Terminus_017_Mahamasina" osm_id="E20" coordinates="None" lines="017" />
+        <stop name="Arret_Mahamasina" osm_id="E20" coordinates="None" lines="015" />
+        <stop name="Terminus_184_Mahamasina" osm_id="566072906" coordinates="47.5243149, -18.9187904" lines="184 128" />
+        <stop name="Arret_GerbOr_Mahamasina" osm_id="28914865" coordinates="47.5243627, -18.920206" lines="015 184 017" />
+        <stop name="Arret_College-de-france-Ankadilalana" osm_id="577152036" coordinates="47.5282248, -18.9346949" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_306_Manakambahiny" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Terminus_Ambohipo" osm_id="528675704" coordinates="47.5567431, -18.9256113" lines="129 017" />
+        </route>
+    <route id="tj_104_Ambohimiandra" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka_Androndra" osm_id="28884272" coordinates="47.5244416, -18.9445379" lines="113 104" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="arret_sampanana_mahazoarivo" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        </route>
+    <route id="tj_105_Ambohimanarina" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_106_Anosivavaka" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Pullman_Ivandry" osm_id="110767114" coordinates="None" lines="194" />
+        </route>
+    <route id="tj_112_Ambohibao" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_113_Mahazoarivo" color="0,0,129">
+        <stop name="Primius_122_Mahazoarivo" osm_id="55369765" coordinates="47.5451675, -18.9405052" lines="122 113" />
+        <stop name="Arret_Tsena_Mahazoarivo" osm_id="28884351" coordinates="47.543095, -18.9328755" lines="122 113" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arret_Descours_Fiadanana_Anosy" osm_id="27362118" coordinates="47.5226329, -18.93609" lines="154 137 113" />
+        <stop name="Arret_Paraky_vers_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="113 137" />
+        <stop name="Jirama_Andrefanambohijanahary_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 137 113" />
+        <stop name="Arret_Toby_Fiadanana" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 113 137" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Ampefiloha_CNAPS" osm_id="29078904.78" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Isotry_Assurance-MAMA" osm_id="45185054" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Senat" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 137 113" />
+        <stop name="Arrêt_Parking_Toby" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 166, 180" />
+        <stop name="Arrêt_Jirama_Andrefanambohijanahary" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 1130137" />
+        <stop name="Arret_Paraky_vers_Ankadimbahoaka" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="113 137" />
+        <stop name="Arrêt Descours_Fiadanana" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="154 113 137" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arret_Ankadimbahoaka_Androndra" osm_id="28884272" coordinates="47.5244416, -18.9445379" lines="113 104" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Sampanana_Mahazoarivo" osm_id="28884351" coordinates="47.543095, -18.9328755" lines="122 113" />
+        <stop name="Arrêt_Mahazoarivo" osm_id="55369765" coordinates="47.5451675, -18.9405052" lines="122 113" />
+        </route>
+    <route id="tj_114_Ambohibao" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_115_Tsimbazaza" color="0,0,129">
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Terminus_184_Mahamasina" osm_id="566072906" coordinates="47.5243149, -18.9187904" lines="184 128" />
+        <stop name="Arret_GerbOr_Mahamasina" osm_id="28914865" coordinates="47.5243627, -18.920206" lines="015 184 017" />
+        <stop name="Arret_College-de-france-Ankadilalana" osm_id="577152036" coordinates="47.5282248, -18.9346949" lines="015 017 184" />
+        </route>
+    <route id="tj_116_Mandroseza" color="0,0,129">
+        <stop name="Arret_Shell_Mandroseza_Amohimiandra" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        <stop name="Arret_Jirama_mandroseza_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 194_maintso E_Alasora" />
+        <stop name="Arret_Ceg_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="192 015 116" />
+        <stop name="Arret_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_UCM_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 192 194" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Total_Ankazotokana" osm_id="28915526" coordinates="None" lines="129 164 196 182mena 182 manga" />
+        <stop name="Arrer_Alliance_Antsahabe" osm_id="28915526" coordinates="None" lines="129 196 164" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arrêt_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 194 192" />
+        <stop name="Arret_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="194_maintso 015" />
+        <stop name="Arret_Jirama_Mandroseza" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 E_Alasora 194_maintso" />
+        <stop name="Arret_Shell_Mandroseza" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        </route>
+    <route id="tj_117_Ambohitsoa" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="arret_sampanana_mahazoarivo" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_sampanana_Mandroseza" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_UCM_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 192 194" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Tfm_Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122 180 192" />
+        <stop name="Arret_Pharmacie Hanitra _Antsakaviro" osm_id="402955431" coordinates="None" lines="122 180" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arrêt_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 194 192" />
+        <stop name="Arrêt_Sampanana_Mandroseza" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_120_Soavimasoandro" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_122_mahazoarivo" color="0,0,128">
+        <stop name="Primius_122_Mahazoarivo" osm_id="55369765" coordinates="47.5451675, -18.9405052" lines="122 113" />
+        <stop name="Arret_Tsena_Mahazoarivo" osm_id="28884351" coordinates="47.543095, -18.9328755" lines="122 113" />
+        <stop name="arret_sampanana_mahazoarivo" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_sampanana_Mandroseza" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_UCM_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 192 194" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Tfm_Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122 180 192" />
+        <stop name="Arret_Pharmacie Hanitra _Antsakaviro" osm_id="402955431" coordinates="None" lines="122 180" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Stop_Antsapanimahazo" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166" />
+        <stop name="Arret_Epp_Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        <stop name="Arrêt_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 194 192" />
+        <stop name="Arrêt_Sampanana_Mandroseza" osm_id="685162907" coordinates="47.5435208, -18.9272334" lines="122" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Sampanana_Mahazoarivo" osm_id="28884351" coordinates="47.543095, -18.9328755" lines="122 113" />
+        </route>
+    <route id="tj_123_mahazo" color="0,0,128">
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        </route>
+    <route id="tj_125_Manakambahiny" color="0,0,129">
+        <stop name="Arret_306_Manakambahiny_tsimbazaza" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_EPP_Soarano" osm_id="397633972" coordinates="47.5227084, -18.903198" lines="129 164 196" />
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        <stop name="Arret_Advantista_Ambohijatovo" osm_id="40163737" coordinates="47.5281425, -18.9072263" lines="129 164 196" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Terminus_184_Mahamasina" osm_id="566072906" coordinates="47.5243149, -18.9187904" lines="184 128" />
+        <stop name="Arret_GerbOr_Mahamasina" osm_id="28914865" coordinates="47.5243627, -18.920206" lines="015 184 017" />
+        <stop name="Arret_College-de-france-Ankadilalana" osm_id="577152036" coordinates="47.5282248, -18.9346949" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_306_Manakambahiny" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        </route>
+    <route id="tj_127_Rasalama" color="0,0,129">
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        <stop name="Arret_306_Manakambahiny_tsimbazaza" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        </route>
+    <route id="tj_128_Ankatso" color="0,0,128">
+        <stop name="Primius_160_166_Ankatso" osm_id="593042071" coordinates="47.5494901, -18.9148176" lines="160 166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="414024868" coordinates="47.5492136, -18.9154799" lines="119 160 166 128" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="591765193" coordinates="None" lines="119 160 166" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Gazety_Ankorahotra" osm_id="29078960" coordinates="47.5372856, -18.9138813" lines="119 166 160 194" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="402955427" coordinates="None" lines="119 160166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Tamboho_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Pavé_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Arret_Akondro_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Terminus_Ankatso" osm_id="576656045" coordinates="47.5495098, -18.9145397" lines="119 128 166 160" />
+        <stop name="Primius_119_Ankatso" osm_id="517613027" coordinates="47.5495355, -18.9141706" lines="119" />
+        <stop name="Primius_128_Ankatso" osm_id="517613027" coordinates="47.5495355, -18.9141706" lines="128" />
+        </route>
+    <route id="tj_129_Ambohipo" color="0,0,129">
+        <stop name="Primius_129_Ambihipo" osm_id="620504837" coordinates="47.5565141, -18.9254589" lines="129" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Total_Ankazotokana" osm_id="28915526" coordinates="None" lines="129 164 196 182mena 182 manga" />
+        <stop name="Arrer_Alliance_Antsahabe" osm_id="28915526" coordinates="None" lines="129 196 164" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Terminus_164_137_129_Analakely" osm_id="28929154" coordinates="47.5247168, -18.9044162" lines="164 137 129" />
+        <stop name="Arret_EPP_Soarano" osm_id="397633972" coordinates="47.5227084, -18.903198" lines="129 164 196" />
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        <stop name="Arret_Advantista_Ambohijatovo" osm_id="40163737" coordinates="47.5281425, -18.9072263" lines="129 164 196" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Terminus_Ambohipo" osm_id="528675704" coordinates="47.5567431, -18.9256113" lines="129 017" />
+        </route>
+    <route id="tj_134_Manjakamiadana" color="0,0,129">
+        <stop name="Arret_Advantista_Ambohijatovo" osm_id="40163737" coordinates="47.5281425, -18.9072263" lines="129 164 196" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Terminus_196_Soarano" osm_id="40149415" coordinates="47.5233267, -18.9040056" lines="196" />
+        <stop name="Arret_EPP_Soarano" osm_id="397633972" coordinates="47.5227084, -18.903198" lines="129 164 196" />
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        </route>
+    <route id="tj_135_Soamanandrariny" color="0,0,128">
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        </route>
+    <route id="tj_137_Andoharanofotsy" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arret_Descours_Fiadanana_Anosy" osm_id="27362118" coordinates="47.5226329, -18.93609" lines="154 137 113" />
+        <stop name="Arret_Paraky_vers_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="113 137" />
+        <stop name="Jirama_Andrefanambohijanahary_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 137 113" />
+        <stop name="Arret_Toby_Fiadanana" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 113 137" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Terminus_164_137_129_Analakely" osm_id="28929154" coordinates="47.5247168, -18.9044162" lines="164 137 129" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Senat" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 137 113" />
+        <stop name="Arrêt_Parking_Toby" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 166, 180" />
+        <stop name="Arrêt_Jirama_Andrefanambohijanahary" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 1130137" />
+        <stop name="Arret_Paraky_vers_Ankadimbahoaka" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="113 137" />
+        <stop name="Arrêt Descours_Fiadanana" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="154 113 137" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arrêt_Ankadimbahoaka_Fasika" osm_id="312430381" coordinates="47.5254347, -18.9476758" lines="139, 154, 172, 173, 187" />
+        <stop name="Arrêt_Tanjombato_35" osm_id="542597758" coordinates="47.5266297, -18.9510132" lines="139, 154, 172, 173, 187" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_138_Anosizato" color="white">
+        <stop name="Arrêt_Anosizato_face_Loharano" osm_id="564210444" coordinates="47.4960111, -18.9382561" lines="140, J, G" />
+        <stop name="Arret_Anosizato_Antsinanana" osm_id="28823586" coordinates="47.4994238, -18.9373308" lines="None" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Ampefiloha_CNAPS" osm_id="29078904.78" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Isotry_Assurance-MAMA" osm_id="45185054" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        </route>
+    <route id="tj_139_Ambatoroka" color="0,0,128">
+        <stop name="Arret_Tfm_Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122 180 192" />
+        <stop name="Arret_Pharmacie Hanitra _Antsakaviro" osm_id="402955431" coordinates="None" lines="122 180" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Stop_Antsapanimahazo" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166" />
+        <stop name="Arret_Epp_Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        </route>
+    <route id="tj_140_A_Ampitatafika" color="white">
+        <stop name="Primus_Ligne_140" osm_id="565439305" coordinates="47.4786149, -18.9368012" lines="140," />
+        <stop name="Arrêt_Essence_Ampitatafika_Aller" osm_id="28823413" coordinates="47.4790248, -18.93601" lines="140, J, G" />
+        <stop name="Arrêt_Antanimenakely_Anosizato_Aller" osm_id="28823413" coordinates="47.4790248, -18.93601" lines="140, J, G" />
+        <stop name="Arrêt_Anosizato_Coca_Aller" osm_id="543098490" coordinates="47.4876767, -18.9389205" lines="140, J, G" />
+        <stop name="Arrêt_Anosizato_face_Loharano" osm_id="564210444" coordinates="47.4960111, -18.9382561" lines="140, J, G" />
+        <stop name="Arret_Anosizato_fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="194 140" />
+        <stop name="Arret_Fasan-karana_Ankadimbahoaka" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arret_Descours_Fiadanana_Anosy" osm_id="27362118" coordinates="47.5226329, -18.93609" lines="154 137 113" />
+        <stop name="Arret_Paraky_vers_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="113 137" />
+        <stop name="Jirama_Andrefanambohijanahary_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 137 113" />
+        <stop name="Arret_Toby_Fiadanana" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 113 137" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Ampefiloha_CNAPS" osm_id="29078904.78" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Isotry_Assurance-MAMA" osm_id="45185054" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Idealy" osm_id="29078894" coordinates="47.5181473, -18.9064699" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Ambalavao" osm_id="48369294" coordinates="47.5163651, -18.9101353" lines="A, 133, 140, 157" />
+        <stop name="Terminus_G" osm_id="566115264" coordinates="47.5174225, -18.911352" lines="G" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Senat" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 137 113" />
+        <stop name="Arrêt_Parking_Toby" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 166, 180" />
+        <stop name="Arrêt_Jirama_Andrefanambohijanahary" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 1130137" />
+        <stop name="Arret_Paraky_vers_Ankadimbahoaka" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="113 137" />
+        <stop name="Arrêt Descours_Fiadanana" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="154 113 137" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Sampanana_Fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Anosizato" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="194 140" />
+        <stop name="Arrêt_Anosizato_Andrefana" osm_id="28823429" coordinates="47.4917708, -18.9393241" lines="140, J" />
+        <stop name="Arrêt_Anosizato_Coca" osm_id="564942677" coordinates="47.4893824, -18.9394777" lines="110, 140, J" />
+        <stop name="Arrêt_Antanimenakely_Anosizato" osm_id="520536078.227" coordinates="None" lines="110, 140, J" />
+        <stop name="Arrêt_Ampitatafika_Essence" osm_id="28823413" coordinates="47.4790248, -18.93601" lines="140, J" />
+        </route>
+    <route id="tj_144_Ambohimahitsy" color="0,0,128">
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        </route>
+    <route id="tj_146_manga_Mausolé" color="0,0,128">
+        <stop name="Primus_194_Mausolée" osm_id="29078983" coordinates="47.5460241, -18.8970398" lines="194" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="Arret_Parking_67ha" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="147 146 178" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Mascotte" osm_id="384991852" coordinates="47.5335466, -18.9139416" lines="147" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        </route>
+    <route id="tj_146_mena_Mausolé" color="0,0,128">
+        <stop name="Primus_194_Mausolée" osm_id="29078983" coordinates="47.5460241, -18.8970398" lines="194" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        </route>
+    <route id="tj_147_D_mena_Ambatomaro" color="0,0,128">
+        <stop name="Arret_Nanisana_Ampasapito" osm_id="45189914" coordinates="47.5488772, -18.8898254" lines="147_D 194" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        <stop name="Arret_Sapin_Nanisana" osm_id="45189914" coordinates="47.5488772, -18.8898254" lines="194 147_D" />
+        </route>
+    <route id="tj_147_manga_Ambatomaro" color="0,0,128">
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="Arret_Parking_67ha" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="147 146 178" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Mascotte" osm_id="384991852" coordinates="47.5335466, -18.9139416" lines="147" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        </route>
+    <route id="tj_147_mena_Ambatomaro" color="0,0,128">
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        </route>
+    <route id="tj_151_Ambohitsoa" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arret_Descours_Fiadanana_Anosy" osm_id="27362118" coordinates="47.5226329, -18.93609" lines="154 137 113" />
+        <stop name="Arret_Paraky_vers_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="113 137" />
+        <stop name="Jirama_Andrefanambohijanahary_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 137 113" />
+        <stop name="Arret_Toby_Fiadanana" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 113 137" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Terminus_Ambotrimanjaka" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="ligne_D" />
+        <stop name="Terminus_119_Ny_Havana" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="119" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Senat" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 137 113" />
+        <stop name="Arrêt_Parking_Toby" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 166, 180" />
+        <stop name="Arrêt_Jirama_Andrefanambohijanahary" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 1130137" />
+        <stop name="Arret_Paraky_vers_Ankadimbahoaka" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="113 137" />
+        <stop name="Arrêt Descours_Fiadanana" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="154 113 137" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arret_Ankadimbahoaka_Androndra" osm_id="28884272" coordinates="47.5244416, -18.9445379" lines="113 104" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_161_Ambatobe" color="0,0,196">
+        <stop name="Arret_Nanisana_Ampasapito" osm_id="45189914" coordinates="47.5488772, -18.8898254" lines="147_D 194" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        <stop name="Arret_Sapin_Nanisana" osm_id="45189914" coordinates="47.5488772, -18.8898254" lines="194 147_D" />
+        </route>
+    <route id="tj_164_Ambohipo" color="0,0,164">
+        <stop name="Primius_017_Ambohipo" osm_id="528675704" coordinates="47.5567431, -18.9256113" lines="017" />
+        <stop name="Primius_129_Ambihipo" osm_id="620504837" coordinates="47.5565141, -18.9254589" lines="129" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Total_Ankazotokana" osm_id="28915526" coordinates="None" lines="129 164 196 182mena 182 manga" />
+        <stop name="Arrer_Alliance_Antsahabe" osm_id="28915526" coordinates="None" lines="129 196 164" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Terminus_164_137_129_Analakely" osm_id="28929154" coordinates="47.5247168, -18.9044162" lines="164 137 129" />
+        <stop name="Arret_EPP_Soarano" osm_id="397633972" coordinates="47.5227084, -18.903198" lines="129 164 196" />
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        <stop name="Arret_Advantista_Ambohijatovo" osm_id="40163737" coordinates="47.5281425, -18.9072263" lines="129 164 196" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Terminus_Ambohipo" osm_id="528675704" coordinates="47.5567431, -18.9256113" lines="129 017" />
+        </route>
+    <route id="tj_172_Andoharanofotsy" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arrêt_Anosibe_Pharmacie" osm_id="430100401" coordinates="47.5097979, -18.9293611" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_Akoho" osm_id="430100401.264" coordinates="None" lines="162, 140, G" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Terminus_Ambotrimanjaka" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="ligne_D" />
+        <stop name="Terminus_119_Ny_Havana" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="119" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arrêt_Anosibe_AkohoR" osm_id="430100395" coordinates="47.5125222, -18.9267356" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_Pharmacie_Volahanta" osm_id="430100395" coordinates="47.5125222, -18.9267356" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arrêt_Ankadimbahoaka_Fasika" osm_id="312430381" coordinates="47.5254347, -18.9476758" lines="139, 154, 172, 173, 187" />
+        <stop name="Arrêt_Tanjombato_35" osm_id="542597758" coordinates="47.5266297, -18.9510132" lines="139, 154, 172, 173, 187" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_178_mena_Andraisoro" color="0,0,128">
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        </route>
+    <route id="tj_180_Ambolokandrina" color="0,0,196">
+        <stop name="Arret_Garage_Ambolokandrina_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180196 182_mena 182_manga" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Tfm_Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122 180 192" />
+        <stop name="Arret_Pharmacie Hanitra _Antsakaviro" osm_id="402955431" coordinates="None" lines="122 180" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Stop_Antsapanimahazo" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166" />
+        <stop name="Arret_Epp_Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Pullman_Ivandry" osm_id="110767114" coordinates="None" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Arret_3_chemins_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Garage_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        </route>
+    <route id="tj_182_manga_Ambolokandrina" color="0,0,196">
+        <stop name="Arret_Garage_Ambolokandrina_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180196 182_mena 182_manga" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Total_Ankazotokana" osm_id="28915526" coordinates="None" lines="129 164 196 182mena 182 manga" />
+        <stop name="Arrer_Alliance_Antsahabe" osm_id="28915526" coordinates="None" lines="129 196 164" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Arret_3_chemins_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Garage_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        </route>
+    <route id="tj_182_mena_Ambolokandrina" color="0,0,196">
+        <stop name="Arret_Garage_Ambolokandrina_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180196 182_mena 182_manga" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Total_Ankazotokana" osm_id="28915526" coordinates="None" lines="129 164 196 182mena 182 manga" />
+        <stop name="Arrer_Alliance_Antsahabe" osm_id="28915526" coordinates="None" lines="129 196 164" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Arret_3_chemins_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Garage_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        </route>
+    <route id="tj_184_ambanidia" color="0,0,129">
+        <stop name="Arret_306_Manakambahiny_tsimbazaza" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Terminus_184_Mahamasina" osm_id="566072906" coordinates="47.5243149, -18.9187904" lines="184 128" />
+        <stop name="Arret_GerbOr_Mahamasina" osm_id="28914865" coordinates="47.5243627, -18.920206" lines="015 184 017" />
+        <stop name="Arret_College-de-france-Ankadilalana" osm_id="577152036" coordinates="47.5282248, -18.9346949" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_306_Manakambahiny" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        </route>
+    <route id="tj_187_Iavoloha" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arrêt_Anosibe_Pharmacie" osm_id="430100401" coordinates="47.5097979, -18.9293611" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_Akoho" osm_id="430100401.264" coordinates="None" lines="162, 140, G" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Terminus_Ambotrimanjaka" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="ligne_D" />
+        <stop name="Terminus_119_Ny_Havana" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="119" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arrêt_Anosibe_AkohoR" osm_id="430100395" coordinates="47.5125222, -18.9267356" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_Pharmacie_Volahanta" osm_id="430100395" coordinates="47.5125222, -18.9267356" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arrêt_Ankadimbahoaka_Fasika" osm_id="312430381" coordinates="47.5254347, -18.9476758" lines="139, 154, 172, 173, 187" />
+        <stop name="Arrêt_Tanjombato_35" osm_id="542597758" coordinates="47.5266297, -18.9510132" lines="139, 154, 172, 173, 187" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_190_Andohamandry" color="0,0,129">
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        <stop name="Arret_Advantista_Ambohijatovo" osm_id="40163737" coordinates="47.5281425, -18.9072263" lines="129 164 196" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Terminus_164_137_129_Analakely" osm_id="28929154" coordinates="47.5247168, -18.9044162" lines="164 137 129" />
+        <stop name="Arret_EPP_Soarano" osm_id="397633972" coordinates="47.5227084, -18.903198" lines="129 164 196" />
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        </route>
+    <route id="tj_194_A_Mausolée" color="0,0,129">
+        <stop name="Primus_194_Mausolée" osm_id="29078983" coordinates="47.5460241, -18.8970398" lines="194" />
+        <stop name="Arrêt_Anjanahary_IIS" osm_id="590449561" coordinates="47.5366479, -18.8925876" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Andravoahangy_Mascar" osm_id="402321363" coordinates="47.5329219, -18.8967985" lines="126, 186, 109, 152" />
+        <stop name="TERMINUS H" osm_id="532005804" coordinates="None" lines="H" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Pullman_Ivandry" osm_id="110767114" coordinates="None" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arrêt_Ambodivona_Espoir" osm_id="532005804" coordinates="None" lines="H, 157, 183" />
+        <stop name="Arret_Tsena_Andravoahangy" osm_id="117187162" coordinates="47.5304847, -18.8973827" lines="194" />
+        <stop name="Arret_Andravoahangy_Mascar" osm_id="639908582" coordinates="47.5332283, -18.8967089" lines="152 109 186 126" />
+        <stop name="Arret_Sampanana_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="194" />
+        <stop name="Arret_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="109 152 126" />
+        </route>
+    <route id="tj_194_B_Mausolée" color="0,0,129">
+        <stop name="Primus_194_Mausolée" osm_id="29078983" coordinates="47.5460241, -18.8970398" lines="194" />
+        <stop name="Arret_Ampasapito" osm_id="45189397" coordinates="47.5469351, -18.8951559" lines="194 147" />
+        <stop name="Arret_Sapin_Nanisana" osm_id="45189914" coordinates="47.5488772, -18.8898254" lines="194 147_D" />
+        <stop name="Arret_Sampanana_Analamahitsy" osm_id="28864547" coordinates="47.5518306, -18.8827907" lines="194" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arret_Cité_Analamahitsy" osm_id="594046129" coordinates="47.5461891, -18.8719682" lines="194" />
+        <stop name="Arret_Gastro_Analamahitsy" osm_id="576696071" coordinates="47.544706, -18.8716154" lines="194" />
+        <stop name="Arret_Imatep_Androhibe" osm_id="542503720" coordinates="47.5427034, -18.8714345" lines="194" />
+        <stop name="Arret_Pullman_Ivandry" osm_id="110767114" coordinates="None" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Bassin_Analamahitsy" osm_id="40383085" coordinates="47.5490163, -18.8731267" lines="194" />
+        <stop name="Arret_Sampanana_Analamahitsy_Nanisana" osm_id="28864547" coordinates="47.5518306, -18.8827907" lines="194" />
+        <stop name="Arret_Nanisana_Ampasapito" osm_id="45189914" coordinates="47.5488772, -18.8898254" lines="147_D 194" />
+        </route>
+    <route id="tj_194_C_Andrainarivo" color="0,0,129">
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        <stop name="Arrêt_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 194 192" />
+        <stop name="Arret_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="194_maintso 015" />
+        <stop name="Arret_Jirama_Mandroseza" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 E_Alasora 194_maintso" />
+        <stop name="Arret_Shell_Mandroseza" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        <stop name="Terminus_116_Mandroseza" osm_id="562415279" coordinates="47.5540005, -18.9374696" lines="116 015" />
+        <stop name="Arret_Ankadindratombo" osm_id="28821470" coordinates="47.554628, -18.9388929" lines="194_maintso E_Alasora" />
+        <stop name="Arret_Domaine_Alasora_Bypass" osm_id="186254006" coordinates="47.5567796, -18.9456483" lines="194_maintso" />
+        <stop name="Arret_Gazety_sampanana_Ankadimabahoaka" osm_id="896547680" coordinates="47.5476308, -18.9534657" lines="194 163" />
+        <stop name="Arret_Sampanana_Tvplus" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Jovena_Androndra" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Fasika_Ankadimbahoaka" osm_id="54484413" coordinates="None" lines="194" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Sampanana_Fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Anosizato" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="194 140" />
+        <stop name="Arret_Anosizato_Antsinanana" osm_id="28823586" coordinates="47.4994238, -18.9373308" lines="None" />
+        <stop name="Arret_CDA_Andohatapenaka" osm_id="60348014" coordinates="47.4968661, -18.9027232" lines="D_Ivato" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Anosizato_fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="194 140" />
+        <stop name="Arret_Fasan-karana_Ankadimbahoaka" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arret_Fasika_vers_Bypass" osm_id="913527440" coordinates="47.5263841, -18.9475063" lines="194 163" />
+        <stop name="Arret_Jovena_Androndra_vers_Bypass" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Tetezana_tvplus" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Shell_Bypass" osm_id="896547679" coordinates="47.5467689, -18.953007" lines="194" />
+        <stop name="Arret_Domaine_Alasora_Ankadindratombo" osm_id="186254006" coordinates="47.5567796, -18.9456483" lines="194_maintso" />
+        <stop name="Arret_Ankadindratombo_Mandroseza" osm_id="28821470" coordinates="47.554628, -18.9388929" lines="194_maintso E-Alasora" />
+        <stop name="Arret_Shell_Mandroseza_Amohimiandra" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        <stop name="Arret_Jirama_mandroseza_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 194_maintso E_Alasora" />
+        <stop name="Arret_Ceg_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="192 015 116" />
+        <stop name="Arret_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_UCM_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 192 194" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Tfm_Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122 180 192" />
+        <stop name="Arret_Pharmacie Hanitra _Antsakaviro" osm_id="402955431" coordinates="None" lines="122 180" />
+        <stop name="Arret_Gazety_Ankorahotra" osm_id="29078960" coordinates="47.5372856, -18.9138813" lines="119 166 160 194" />
+        <stop name="Arret_Antanimora" osm_id="186254010" coordinates="47.5449249, -18.9125305" lines="194_maintso" />
+        <stop name="Terminus 194_Antanimora" osm_id="579843059" coordinates="47.5448305, -18.9109878" lines="194" />
+        </route>
+    <route id="tj_196_Ambolokandrina" color="0,0,196">
+        <stop name="Arret_Garage_Ambolokandrina_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180196 182_mena 182_manga" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Cyprès_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 196 180 182" />
+        <stop name="Arret_Clique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Orostom" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_fiavo" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Total_Ankazotokana" osm_id="28915526" coordinates="None" lines="129 164 196 182mena 182 manga" />
+        <stop name="Arrer_Alliance_Antsahabe" osm_id="28915526" coordinates="None" lines="129 196 164" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Terminus_196_Soarano" osm_id="40149415" coordinates="47.5233267, -18.9040056" lines="196" />
+        <stop name="Arret_EPP_Soarano" osm_id="397633972" coordinates="47.5227084, -18.903198" lines="129 164 196" />
+        <stop name="Arret_Ambondrona" osm_id="28915887" coordinates="47.5272739, -18.9055388" lines="None" />
+        <stop name="Arret_Advantista_Ambohijatovo" osm_id="40163737" coordinates="47.5281425, -18.9072263" lines="129 164 196" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Tsena_Ambanidia" osm_id="183432426" coordinates="47.5369629, -18.9200196" lines="129 196 1164 015" />
+        <stop name="Arret_Fiavo_Sampanana" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Orostom _Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Clinique_Ambatoroka" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182" />
+        <stop name="Arret_Smap" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196 182_mena 182_manga" />
+        <stop name="Arret_Sampanana_Andohanimandroseza" osm_id="28884472" coordinates="47.5556687, -18.9249226" lines="129 164 180 196" />
+        <stop name="Arret_3_chemins_Ambohipo" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_manga 182_mena" />
+        <stop name="Arret_Akondro_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_tsena_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="180 196 182_mena 182_manga" />
+        <stop name="Arret_Garage_Ambolokandrina" osm_id="45023506" coordinates="47.5556687, -18.9249226" lines="196 180 182_mena 182_manga" />
+        </route>
+    <route id="tj_199_Alarobia" color="0,0,129">
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Senat" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 137 113" />
+        <stop name="Arrêt_Parking_Toby" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 166, 180" />
+        <stop name="Arrêt_Jirama_Andrefanambohijanahary" osm_id="27362008" coordinates="47.521454, -18.9186864" lines="154, 1130137" />
+        <stop name="Arret_Paraky_vers_Ankadimbahoaka" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="113 137" />
+        <stop name="Arrêt Descours_Fiadanana" osm_id="77338147" coordinates="47.5190665, -18.9280689" lines="154 113 137" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arrêt_Ankadimbahoaka_Fasika" osm_id="312430381" coordinates="47.5254347, -18.9476758" lines="139, 154, 172, 173, 187" />
+        <stop name="Arrêt_Tanjombato_35" osm_id="542597758" coordinates="47.5266297, -18.9510132" lines="139, 154, 172, 173, 187" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arret_Descours_Fiadanana_Anosy" osm_id="27362118" coordinates="47.5226329, -18.93609" lines="154 137 113" />
+        <stop name="Arret_Paraky_vers_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="113 137" />
+        <stop name="Jirama_Andrefanambohijanahary_Anosy" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 137 113" />
+        <stop name="Arret_Toby_Fiadanana" osm_id="605945682" coordinates="47.521976, -18.9350623" lines="154 113 137" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Pullman_Ivandry" osm_id="110767114" coordinates="None" lines="194" />
+        </route>
+    <route id="tj_bus_109_ambohitrarahaba" color="blue">
+        <stop name="Arrêt Analamahitsy Ecole" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 163, 192" />
+        <stop name="Arret_Analamahitsy_fiakarana" osm_id="40421335" coordinates="47.5513404, -18.8670025" lines="H, 109, 163, 192" />
+        <stop name="Arret_Bassin_Analamahitsy" osm_id="40383085" coordinates="47.5490163, -18.8731267" lines="194" />
+        <stop name="Arrêt_Analamahitsy_Dispensaire" osm_id="45195185" coordinates="47.5466647, -18.876637" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Andranobevava_Aller" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="126, 183, 186, 109, 163, H" />
+        <stop name="Arrêt_Amboditsiry_Pharmacie" osm_id="591776411" coordinates="None" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Ambatomainty_Fidy" osm_id="565743332" coordinates="None" lines="126, 183, 186, 109, 152, H" />
+        <stop name="Arrêt_Ambatomainty_Jovenna" osm_id="565743332" coordinates="None" lines="126, 183, 186, 109, 152, H" />
+        <stop name="Arrêt_Anjanahary_IIS" osm_id="590449561" coordinates="47.5366479, -18.8925876" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Andravoahangy_Mascar" osm_id="402321363" coordinates="47.5329219, -18.8967985" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Mandialaza_Andravoahangy" osm_id="117187169" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="Arret_Andravoahangy_Mascar" osm_id="639908582" coordinates="47.5332283, -18.8967089" lines="152 109 186 126" />
+        <stop name="Arret_Sampanana_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="194" />
+        <stop name="Arret_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="109 152 126" />
+        <stop name="Arrêt_Jovenna_Ambatomainty" osm_id="563180478" coordinates="47.5369081, -18.8922384" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_SuperMaki_Amboditsiry" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Andranobevava_retour" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_RDA" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_ecole_analamahitsy" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 192, 163" />
+        <stop name="Arrêt_Ambohitrarahaba_retour" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 109, 163" />
+        </route>
+    <route id="tj_bus_110_Anosizato" color="white">
+        <stop name="Arrêt_Anosizato_face_Loharano" osm_id="564210444" coordinates="47.4960111, -18.9382561" lines="140, J, G" />
+        <stop name="Arrêt_Anosizato_Atsinanana" osm_id="28823519" coordinates="47.5000428, -18.937752" lines="G, 140" />
+        <stop name="Primus_162_Anosizato" osm_id="430100379" coordinates="47.5029147, -18.9358595" lines="162, 140, G" />
+        <stop name="Arrêt_Anosizato_Parking" osm_id="430100406" coordinates="None" lines="162, 140, G" />
+        <stop name="Arrêt_Salama_Anosizato" osm_id="71080591" coordinates="47.5031196, -18.9356755" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_THB" osm_id="430100397.25" coordinates="None" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_Pharmacie" osm_id="430100401" coordinates="47.5097979, -18.9293611" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_Akoho" osm_id="430100401.264" coordinates="None" lines="162, 140, G" />
+        <stop name="Terminus_Ligne_165_Anosibe" osm_id="28823166.31" coordinates="None" lines="165" />
+        <stop name="Arrêt_Anosibe_Tsena" osm_id="430100402.94" coordinates="None" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosibe_Barriere" osm_id="430100402.119.144" coordinates="None" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_solimotel" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_FID" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Ampefiloha_CNAPS" osm_id="29078904.78" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Isotry_Assurance-MAMA" osm_id="45185054" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Terminus_164_137_129_Analakely" osm_id="28929154" coordinates="47.5247168, -18.9044162" lines="164 137 129" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Idealy" osm_id="29078894" coordinates="47.5181473, -18.9064699" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Ambalavao" osm_id="48369294" coordinates="47.5163651, -18.9101353" lines="A, 133, 140, 157" />
+        <stop name="Terminus_G" osm_id="566115264" coordinates="47.5174225, -18.911352" lines="G" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_Voninkazo" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_HJRA" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Pharmacie_Anosibe" osm_id="28823203" coordinates="47.5165085, -18.9229276" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_TsenaR" osm_id="430100405" coordinates="None" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_AkohoR" osm_id="430100395" coordinates="47.5125222, -18.9267356" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_Pharmacie_Volahanta" osm_id="430100395" coordinates="47.5125222, -18.9267356" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_Vavahady_Manga" osm_id="430100400" coordinates="47.5086921, -18.9303662" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_THB-R" osm_id="430100400" coordinates="47.5086921, -18.9303662" lines="140, 150, 162, G" />
+        <stop name="Arrêt_Anosizato_Salama" osm_id="430100389" coordinates="47.5049191, -18.9338972" lines="140, 150, 162, G" />
+        <stop name="Arrêt_Anosizato_Atsinanana" osm_id="577465786.30" coordinates="None" lines="140, 150, 162, G" />
+        <stop name="Arrêt_Anosizato_Andrefana" osm_id="28823429" coordinates="47.4917708, -18.9393241" lines="140, J" />
+        </route>
+    <route id="tj_bus_119_Ankatso" color="red">
+        <stop name="Primius_160_166_Ankatso" osm_id="593042071" coordinates="47.5494901, -18.9148176" lines="160 166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="414024868" coordinates="47.5492136, -18.9154799" lines="119 160 166 128" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="591765193" coordinates="None" lines="119 160 166" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Terminus_Ambotrimanjaka" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="ligne_D" />
+        <stop name="Terminus_119_Ny_Havana" osm_id="566974049" coordinates="47.5060969, -18.9047917" lines="119" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Gazety_Ankorahotra" osm_id="29078960" coordinates="47.5372856, -18.9138813" lines="119 166 160 194" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="402955427" coordinates="None" lines="119 160166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Tamboho_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Pavé_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Arret_Akondro_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        </route>
+    <route id="tj_bus_126_analamahitsy" color="blue">
+        <stop name="Arrêt_Manjaka_aller" osm_id="580822006" coordinates="47.5538989, -18.8542539" lines="H, 192, 163" />
+        <stop name="Arrêt_Atsahamaina" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 192, 163" />
+        <stop name="Arrêt Ambohitrarahaba" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 163, 192" />
+        <stop name="Arrêt Analamahitsy Ecole" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 163, 192" />
+        <stop name="Arret_Analamahitsy_fiakarana" osm_id="40421335" coordinates="47.5513404, -18.8670025" lines="H, 109, 163, 192" />
+        <stop name="Arret_Bassin_Analamahitsy" osm_id="40383085" coordinates="47.5490163, -18.8731267" lines="194" />
+        <stop name="Arrêt_Analamahitsy_Dispensaire" osm_id="45195185" coordinates="47.5466647, -18.876637" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Andranobevava_Aller" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="126, 183, 186, 109, 163, H" />
+        <stop name="Arrêt_Amboditsiry_Pharmacie" osm_id="591776411" coordinates="None" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Ambatomainty_Fidy" osm_id="565743332" coordinates="None" lines="126, 183, 186, 109, 152, H" />
+        <stop name="Arrêt_Ambatomainty_Jovenna" osm_id="565743332" coordinates="None" lines="126, 183, 186, 109, 152, H" />
+        <stop name="Arrêt_Anjanahary_IIS" osm_id="590449561" coordinates="47.5366479, -18.8925876" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Andravoahangy_Mascar" osm_id="402321363" coordinates="47.5329219, -18.8967985" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Mandialaza_Andravoahangy" osm_id="117187169" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="Arret_Jovena_67ha" osm_id="312190370" coordinates="47.5098389, -18.9050989" lines="147 146 178" />
+        <stop name="Arret_Parking_vers_Antohomadinika" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="146 147 178" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="Arret_Andravoahangy_Mascar" osm_id="639908582" coordinates="47.5332283, -18.8967089" lines="152 109 186 126" />
+        <stop name="Arret_Sampanana_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="194" />
+        <stop name="Arret_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="109 152 126" />
+        <stop name="Arrêt_Jovenna_Ambatomainty" osm_id="563180478" coordinates="47.5369081, -18.8922384" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_SuperMaki_Amboditsiry" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Andranobevava_retour" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_RDA" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_ecole_analamahitsy" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 192, 163" />
+        <stop name="Arrêt_Ambohitrarahaba_retour" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 109, 163" />
+        <stop name="Arrêt_TsenaKely_Ambohitrarahaba" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 192, 163" />
+        <stop name="Arrêt_Manjaka_retour" osm_id="580822006" coordinates="47.5538989, -18.8542539" lines="H, 192, 163" />
+        </route>
+    <route id="tj_bus_133_Ampitatafika" color="green">
+        <stop name="Arrêt_Essence_Ampitatafika_Aller" osm_id="28823413" coordinates="47.4790248, -18.93601" lines="140, J, G" />
+        <stop name="Arrêt_Antanimenakely_Anosizato_Aller" osm_id="28823413" coordinates="47.4790248, -18.93601" lines="140, J, G" />
+        <stop name="Arret_Horizon_Itaosy" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_Hopitaly 133_Ambohimamory" />
+        <stop name="Arret_tetezana_Ampasika" osm_id="48926484" coordinates="47.4991359, -18.9100112" lines="133" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Ampefiloha_CNAPS" osm_id="29078904.78" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Isotry_Assurance-MAMA" osm_id="45185054" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Terminus_Ligne_140_Analakely" osm_id="28929223" coordinates="47.5209478, -18.9072812" lines="140" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Idealy" osm_id="29078894" coordinates="47.5181473, -18.9064699" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Ambalavao" osm_id="48369294" coordinates="47.5163651, -18.9101353" lines="A, 133, 140, 157" />
+        <stop name="Terminus_G" osm_id="566115264" coordinates="47.5174225, -18.911352" lines="G" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Arret_Ampasika" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_Hopital" />
+        <stop name="Arret_Antaninkatsaka_Itaosy" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_hopitaly 133_ambohimamory" />
+        </route>
+    <route id="tj_bus_136_analamahitsy" color="blue">
+        <stop name="Arret_Bassin_Analamahitsy" osm_id="40383085" coordinates="47.5490163, -18.8731267" lines="194" />
+        <stop name="Arrêt_Analamahitsy_Dispensaire" osm_id="45195185" coordinates="47.5466647, -18.876637" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Andranobevava_Aller" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="126, 183, 186, 109, 163, H" />
+        <stop name="Arrêt_Amboditsiry_Pharmacie" osm_id="591776411" coordinates="None" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Ambatomainty_Fidy" osm_id="565743332" coordinates="None" lines="126, 183, 186, 109, 152, H" />
+        <stop name="Arrêt_Ambatomainty_Jovenna" osm_id="565743332" coordinates="None" lines="126, 183, 186, 109, 152, H" />
+        <stop name="Arrêt_Manjakaray_EKAR" osm_id="28884619" coordinates="47.5366093, -18.8921201" lines="H, 194, 183" />
+        <stop name="Arrêt_Ambodivona_23" osm_id="28884619" coordinates="47.5366093, -18.8921201" lines="H, 194, 157, 183" />
+        <stop name="Arrêt_Ambodivona_Cotisse" osm_id="202146033" coordinates="47.5314263, -18.8923456" lines="194" />
+        <stop name="Arrêt_Ambodivona_Espoir" osm_id="532005804" coordinates="None" lines="H, 157, 183" />
+        <stop name="Arrêt_Mandialaza_Andravoahangy" osm_id="117187169" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Voninkazo" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_HJRA" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_solimotel" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_FID" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="Arret_Andravoahangy_Mascar" osm_id="639908582" coordinates="47.5332283, -18.8967089" lines="152 109 186 126" />
+        <stop name="Arret_Sampanana_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="194" />
+        <stop name="Arret_Anjanahary" osm_id="380166062" coordinates="47.5355299, -18.8980572" lines="109 152 126" />
+        <stop name="Arrêt_Jovenna_Ambatomainty" osm_id="563180478" coordinates="47.5369081, -18.8922384" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_SuperMaki_Amboditsiry" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Andranobevava_retour" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arret_Cité_Analamahitsy" osm_id="594046129" coordinates="47.5461891, -18.8719682" lines="194" />
+        </route>
+    <route id="tj_bus_141_andraisoro" color="yellow">
+        <stop name="Arrêt_Anjanahary_IIS" osm_id="590449561" coordinates="47.5366479, -18.8925876" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Andravoahangy_Mascar" osm_id="402321363" coordinates="47.5329219, -18.8967985" lines="126, 186, 109, 152" />
+        <stop name="Arrêt_Mandialaza_Andravoahangy" osm_id="117187169" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        </route>
+    <route id="tj_bus_143_ITAOSY_CITE" color="yellow">
+        <stop name="Arret_Horizon_Itaosy" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_Hopitaly 133_Ambohimamory" />
+        <stop name="Arret_tetezana_Ampasika" osm_id="48926484" coordinates="47.4991359, -18.9100112" lines="133" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Ampefiloha_CNAPS" osm_id="29078904.78" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Isotry_Assurance-MAMA" osm_id="45185054" coordinates="None" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Tsaralalana_Cotona" osm_id="48550509" coordinates="47.5182993, -18.9066768" lines="110" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Idealy" osm_id="29078894" coordinates="47.5181473, -18.9064699" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Ambalavao" osm_id="48369294" coordinates="47.5163651, -18.9101353" lines="A, 133, 140, 157" />
+        <stop name="Terminus_G" osm_id="566115264" coordinates="47.5174225, -18.911352" lines="G" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Arret_Ampasika" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_Hopital" />
+        <stop name="Arret_Antaninkatsaka_Itaosy" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_hopitaly 133_ambohimamory" />
+        </route>
+    <route id="tj_bus_150_ANDROHIBE" color="yellow">
+        <stop name="Arret_Imatep_Androhibe" osm_id="542503720" coordinates="47.5427034, -18.8714345" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Voninkazo" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_HJRA" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_solimotel" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_FID" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_bus_153_Antanimena" color="red">
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        <stop name="Arret_306_Manakambahiny_tsimbazaza" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Maharoho" osm_id="28884766" coordinates="None" lines="015 017 184" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        </route>
+    <route id="tj_bus_157_MANJAKARAY_TANANA" color="yellow">
+        <stop name="Arrêt_Ambodivona_23" osm_id="28884619" coordinates="47.5366093, -18.8921201" lines="H, 194, 157, 183" />
+        <stop name="Arrêt_Ambodivona_Cotisse" osm_id="202146033" coordinates="47.5314263, -18.8923456" lines="194" />
+        <stop name="Arrêt_Ambodivona_Espoir" osm_id="532005804" coordinates="None" lines="H, 157, 183" />
+        <stop name="Arret_Tsena_Andravoahangy" osm_id="117187162" coordinates="47.5304847, -18.8973827" lines="194" />
+        <stop name="Arrêt_Behoririka_Ambany-tetezana" osm_id="28916012" coordinates="None" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Behoririka_SODIAT_1" osm_id="28930215" coordinates="47.5243928, -18.9009214" lines="109, 157, 126, 183, 186" />
+        <stop name="Arrêt_Petite_Vitesse" osm_id="531720072" coordinates="47.5194261, -18.9054884" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Idealy" osm_id="29078894" coordinates="47.5181473, -18.9064699" lines="A, 133, 140, 157" />
+        <stop name="Arrêt_Isotry_Ambalavao" osm_id="48369294" coordinates="47.5163651, -18.9101353" lines="A, 133, 140, 157" />
+        <stop name="Terminus_G" osm_id="566115264" coordinates="47.5174225, -18.911352" lines="G" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_Voninkazo" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_HJRA" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Pharmacie_Anosibe" osm_id="28823203" coordinates="47.5165085, -18.9229276" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosizato_Salama" osm_id="430100389" coordinates="47.5049191, -18.9338972" lines="140, 150, 162, G" />
+        <stop name="Arrêt_Anosizato_Atsinanana" osm_id="577465786.30" coordinates="None" lines="140, 150, 162, G" />
+        <stop name="Arrêt_Anosizato_Atsinanana" osm_id="28823519" coordinates="47.5000428, -18.937752" lines="G, 140" />
+        <stop name="Primus_162_Anosizato" osm_id="430100379" coordinates="47.5029147, -18.9358595" lines="162, 140, G" />
+        <stop name="Arrêt_Anosizato_Parking" osm_id="430100406" coordinates="None" lines="162, 140, G" />
+        <stop name="Arrêt_Salama_Anosizato" osm_id="71080591" coordinates="47.5031196, -18.9356755" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_THB" osm_id="430100397.25" coordinates="None" lines="162, 140, G" />
+        <stop name="Terminus_Ligne_165_Anosibe" osm_id="28823166.31" coordinates="None" lines="165" />
+        <stop name="Arrêt_Anosy_solimotel" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_FID" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="arrêt_TOTAL_Ambodivona" osm_id="28884617" coordinates="47.5284129, -18.893642" lines="H, 157, 186, 183" />
+        </route>
+    <route id="tj_bus_160_Ankatso" color="red">
+        <stop name="Primius_160_166_Ankatso" osm_id="593042071" coordinates="47.5494901, -18.9148176" lines="160 166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="414024868" coordinates="47.5492136, -18.9154799" lines="119 160 166 128" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="591765193" coordinates="None" lines="119 160 166" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Stop_Antsapanimahazo" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166" />
+        <stop name="Arret_Epp_Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Gazety_Ankorahotra" osm_id="29078960" coordinates="47.5372856, -18.9138813" lines="119 166 160 194" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="402955427" coordinates="None" lines="119 160166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Tamboho_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Pavé_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Arret_Akondro_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Terminus_Ankatso" osm_id="576656045" coordinates="47.5495098, -18.9145397" lines="119 128 166 160" />
+        <stop name="Primius_119_Ankatso" osm_id="517613027" coordinates="47.5495355, -18.9141706" lines="119" />
+        <stop name="Primius_128_Ankatso" osm_id="517613027" coordinates="47.5495355, -18.9141706" lines="128" />
+        </route>
+    <route id="tj_bus_162_analamahitsy" color="red">
+        <stop name="Arret_Gastro_Analamahitsy" osm_id="576696071" coordinates="47.544706, -18.8716154" lines="194" />
+        <stop name="Arret_Imatep_Androhibe" osm_id="542503720" coordinates="47.5427034, -18.8714345" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Parking_67ha" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="147 146 178" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="TERMINUS H" osm_id="532005804" coordinates="None" lines="H" />
+        <stop name="arrêt_TOTAL_Ambodivona" osm_id="28884617" coordinates="47.5284129, -18.893642" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Jovenna_Ambatomainty" osm_id="563180478" coordinates="47.5369081, -18.8922384" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_SuperMaki_Amboditsiry" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Andranobevava_retour" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arret_Cité_Analamahitsy" osm_id="594046129" coordinates="47.5461891, -18.8719682" lines="194" />
+        </route>
+    <route id="tj_bus_163_ankadikely" color="yellow">
+        <stop name="Arrêt_Sab_nam" osm_id="910820734" coordinates="None" lines="H" />
+        <stop name="Arrêt_Ankadikely" osm_id="28824029" coordinates="47.555182, -18.8401631" lines="H" />
+        <stop name="Arrêt_Manjaka_aller" osm_id="580822006" coordinates="47.5538989, -18.8542539" lines="H, 192, 163" />
+        <stop name="Arrêt_Atsahamaina" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 192, 163" />
+        <stop name="Arrêt Ambohitrarahaba" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 163, 192" />
+        <stop name="Arrêt Analamahitsy Ecole" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 163, 192" />
+        <stop name="Arret_Analamahitsy_fiakarana" osm_id="40421335" coordinates="47.5513404, -18.8670025" lines="H, 109, 163, 192" />
+        <stop name="Arret_Bassin_Analamahitsy" osm_id="40383085" coordinates="47.5490163, -18.8731267" lines="194" />
+        <stop name="Arrêt_Analamahitsy_Dispensaire" osm_id="45195185" coordinates="47.5466647, -18.876637" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Vatobe_67ha" osm_id="525162450" coordinates="47.5061065, -18.9047195" lines="D_ivato" />
+        <stop name="Arret_Andohatapenaka" osm_id="29078805" coordinates="47.4999772, -18.9059548" lines="D_Ivato" />
+        <stop name="Arret_Anosizato_fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="194 140" />
+        <stop name="Arret_Fasan-karana_Ankadimbahoaka" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Galana_Ankadimbahoaka" osm_id="565439303.40" coordinates="None" lines="172 137 194" />
+        <stop name="Arret_Fasika_vers_Bypass" osm_id="913527440" coordinates="47.5263841, -18.9475063" lines="194 163" />
+        <stop name="Arret_Jovena_Androndra_vers_Bypass" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Tetezana_tvplus" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Shell_Bypass" osm_id="896547679" coordinates="47.5467689, -18.953007" lines="194" />
+        <stop name="Arret_Domaine_Alasora_Ankadindratombo" osm_id="186254006" coordinates="47.5567796, -18.9456483" lines="194_maintso" />
+        <stop name="Arret_domaine_Alasora" osm_id="186254008" coordinates="47.5571753, -18.945686" lines="E_Alasora 163" />
+        <stop name="Arret_Domaine_Alasora_Bypass" osm_id="186254006" coordinates="47.5567796, -18.9456483" lines="194_maintso" />
+        <stop name="Arret_Gazety_sampanana_Ankadimabahoaka" osm_id="896547680" coordinates="47.5476308, -18.9534657" lines="194 163" />
+        <stop name="Arret_Sampanana_Tvplus" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Jovena_Androndra" osm_id="54484413" coordinates="None" lines="194 163" />
+        <stop name="Arret_Fasika_Ankadimbahoaka" osm_id="54484413" coordinates="None" lines="194" />
+        <stop name="Arret_Ankadimbahoaka" osm_id="565439302" coordinates="47.5236306, -18.943107" lines="137 113 140 172 163 135 139" />
+        <stop name="Arrêt_Sampanan_ny_Fasan-karana" osm_id="27362109" coordinates="47.5219179, -18.93832" lines="113, 135, 136, 139, 140, 142, 150, 154, 163, 172, 173, 187, 194" />
+        <stop name="Arret_Sampanana_Fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Fasan-karana" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="140 194" />
+        <stop name="Arret_Anosizato" osm_id="28823466" coordinates="47.500096, -18.9381463" lines="194 140" />
+        <stop name="Arret_Anosizato_Antsinanana" osm_id="28823586" coordinates="47.4994238, -18.9373308" lines="None" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_RDA" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_ecole_analamahitsy" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 192, 163" />
+        <stop name="Arrêt_Ambohitrarahaba_retour" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 109, 163" />
+        <stop name="Arrêt_TsenaKely_Ambohitrarahaba" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 192, 163" />
+        <stop name="Arrêt_Manjaka_retour" osm_id="580822006" coordinates="47.5538989, -18.8542539" lines="H, 192, 163" />
+        <stop name="Arrêt_Ankadikely_retour" osm_id="28824029" coordinates="47.555182, -18.8401631" lines="H" />
+        <stop name="Arrêt_Tetezana_SabNam" osm_id="28824029" coordinates="47.555182, -18.8401631" lines="H" />
+        </route>
+    <route id="tj_bus_165_ANDROHIBE" color="red">
+        <stop name="Arret_Imatep_Androhibe" osm_id="542503720" coordinates="47.5427034, -18.8714345" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Antanimena_Malacam" osm_id="402955430" coordinates="47.5190029, -18.8982733" lines="147 146" />
+        <stop name="Arrêt_Shalimar_Analakely" osm_id="40489799.85" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Arrêt_ex_ROSO_Analakely" osm_id="591357140.51" coordinates="None" lines="109, 126,183, 186" />
+        <stop name="Terminus_ligne_110_Analakely" osm_id="28928987.33" coordinates="None" lines="110" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Voninkazo" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosy_HJRA" osm_id="28823171" coordinates="47.5211776, -18.9184257" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Pharmacie_Anosibe" osm_id="28823203" coordinates="47.5165085, -18.9229276" lines="140, 150, 157, 162, G" />
+        <stop name="Arrêt_Anosibe_Pharmacie" osm_id="430100401" coordinates="47.5097979, -18.9293611" lines="162, 140, G" />
+        <stop name="Arrêt_Anosibe_Akoho" osm_id="430100401.264" coordinates="None" lines="162, 140, G" />
+        <stop name="Terminus_Ligne_165_Anosibe" osm_id="28823166.31" coordinates="None" lines="165" />
+        <stop name="Arrêt_Anosy_solimotel" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_FID" osm_id="28823191" coordinates="47.5173253, -18.9223598" lines="162, 165, 140, G" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        </route>
+    <route id="tj_bus_166_Ankatso" color="red">
+        <stop name="Primius_160_166_Ankatso" osm_id="593042071" coordinates="47.5494901, -18.9148176" lines="160 166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="414024868" coordinates="47.5492136, -18.9154799" lines="119 160 166 128" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="591765193" coordinates="None" lines="119 160 166" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Stop_Antsapanimahazo" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166" />
+        <stop name="Arret_Epp_Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Ambony Tetezana - Behoririka_Ho_Any_Ankadifotsy" osm_id="28916097" coordinates="47.5290796, -18.9019908" lines="122 166 160 180" />
+        <stop name="Arret_Ambatomitsangana_Ankadifotsy" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122 166 160 180" />
+        <stop name="Arret_Pharmacie_Antanimena" osm_id="591765196" coordinates="47.5235452, -18.8985871" lines="122 166 160 180" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Gazety_Ankorahotra" osm_id="29078960" coordinates="47.5372856, -18.9138813" lines="119 166 160 194" />
+        <stop name="Arret_Buffare_Ampasanimalo" osm_id="402955427" coordinates="None" lines="119 160166" />
+        <stop name="Arret_Sampanana_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Tamboho_Ampasanimalo" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 160 166 128" />
+        <stop name="Arret_Pavé_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Arret_Akondro_Tsiadana" osm_id="29078962" coordinates="47.5425873, -18.9172154" lines="119 128 160 166" />
+        <stop name="Terminus_Ankatso" osm_id="576656045" coordinates="47.5495098, -18.9145397" lines="119 128 166 160" />
+        <stop name="Primius_119_Ankatso" osm_id="517613027" coordinates="47.5495355, -18.9141706" lines="119" />
+        <stop name="Primius_128_Ankatso" osm_id="517613027" coordinates="47.5495355, -18.9141706" lines="128" />
+        </route>
+    <route id="tj_bus_183_ambatobe" color="red">
+        <stop name="Arret_Cité_Analamahitsy" osm_id="594046129" coordinates="47.5461891, -18.8719682" lines="194" />
+        <stop name="Arret_Gastro_Analamahitsy" osm_id="576696071" coordinates="47.544706, -18.8716154" lines="194" />
+        <stop name="Arret_Imatep_Androhibe" osm_id="542503720" coordinates="47.5427034, -18.8714345" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Parking_67ha" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="147 146 178" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="TERMINUS H" osm_id="532005804" coordinates="None" lines="H" />
+        <stop name="arrêt_TOTAL_Ambodivona" osm_id="28884617" coordinates="47.5284129, -18.893642" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Jovenna_Ambatomainty" osm_id="563180478" coordinates="47.5369081, -18.8922384" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_SuperMaki_Amboditsiry" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Andranobevava_retour" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        </route>
+    <route id="tj_bus_186_analamahitsy" color="red">
+        <stop name="Arret_Gastro_Analamahitsy" osm_id="576696071" coordinates="47.544706, -18.8716154" lines="194" />
+        <stop name="Arret_Imatep_Androhibe" osm_id="542503720" coordinates="47.5427034, -18.8714345" lines="194" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="Arret_Parking_67ha" osm_id="28916213" coordinates="47.5120549, -18.9010293" lines="147 146 178" />
+        <stop name="Arret_Poste_67ha" osm_id="301651720" coordinates="47.5092184, -18.9057294" lines="119 172 146 147" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Tavoahangy_Andohan-Analakely" osm_id="528688442" coordinates="47.5271574, -18.9080511" lines="129 164 196 133" />
+        <stop name="Arrêt_Ambodifilao" osm_id="564233532.55" coordinates="None" lines="110 133" />
+        <stop name="Arret_Soarano" osm_id="28915979" coordinates="47.5247168, -18.9044162" lines="186 183 109" />
+        <stop name="Arret_Ambany_tetezana_Behoririka" osm_id="28916012" coordinates="None" lines="109 157 126 183 186" />
+        <stop name="Arret_Tsena_Andravoahangy_Anjanahary" osm_id="301630456" coordinates="None" lines="109 126 152 186" />
+        <stop name="TERMINUS H" osm_id="532005804" coordinates="None" lines="H" />
+        <stop name="arrêt_TOTAL_Ambodivona" osm_id="28884617" coordinates="47.5284129, -18.893642" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Jovenna_Ambatomainty" osm_id="563180478" coordinates="47.5369081, -18.8922384" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_SuperMaki_Amboditsiry" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Andranobevava_retour" osm_id="28884596" coordinates="47.5422099, -18.8817353" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arret_Cité_Analamahitsy" osm_id="594046129" coordinates="47.5461891, -18.8719682" lines="194" />
+        </route>
+    <route id="tj_bus_192_ilafy" color="blue">
+        <stop name="Arrêt_Manjaka_aller" osm_id="580822006" coordinates="47.5538989, -18.8542539" lines="H, 192, 163" />
+        <stop name="Arrêt_Atsahamaina" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 192, 163" />
+        <stop name="Arrêt Ambohitrarahaba" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 163, 192" />
+        <stop name="Arrêt Analamahitsy Ecole" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 163, 192" />
+        <stop name="Arret_Analamahitsy_fiakarana" osm_id="40421335" coordinates="47.5513404, -18.8670025" lines="H, 109, 163, 192" />
+        <stop name="Arret_Bassin_Analamahitsy" osm_id="40383085" coordinates="47.5490163, -18.8731267" lines="194" />
+        <stop name="Arrêt_Analamahitsy_Dispensaire" osm_id="45195185" coordinates="47.5466647, -18.876637" lines="126, 183, 186, 109, 163" />
+        <stop name="Arrêt_Ankorondrano_LP" osm_id="28863232" coordinates="None" lines="192, 186, 162, 194" />
+        <stop name="CEG_Antanimena" osm_id="28930225" coordinates="None" lines="122" />
+        <stop name="Arret_Poste_Antanimena" osm_id="343197510" coordinates="None" lines="122 180 166 160 147 146" />
+        <stop name="Parmacie_Ankadifotsy" osm_id="45368060" coordinates="None" lines="122 146 147 180" />
+        <stop name="Ambony_Tetezana _Behoririka" osm_id="28916096" coordinates="47.5287277, -18.9017179" lines="122160 166 180 147 146" />
+        <stop name="arrêt_Andravoahangy_Ambony_Rasalama" osm_id="28916056" coordinates="47.5306621, -18.901" lines="122 160 166 180 147 146" />
+        <stop name="Arrêt_Rasalama" osm_id="52733156" coordinates="47.5309259, -18.9022837" lines="122 146 147 180 160 166" />
+        <stop name="Arret_Pantekotista" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arrêt_Fokontany_Antsakaviro" osm_id="605488410" coordinates="47.5369722, -18.9141803" lines="122 180" />
+        <stop name="Arrêt_Pompe _Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122" />
+        <stop name="Arrêt_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 194 192" />
+        <stop name="Arret_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="194_maintso 015" />
+        <stop name="Arret_Jirama_Mandroseza" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 E_Alasora 194_maintso" />
+        <stop name="Arret_Shell_Mandroseza" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        <stop name="Terminus_116_Mandroseza" osm_id="562415279" coordinates="47.5540005, -18.9374696" lines="116 015" />
+        <stop name="Arret_Ankadindratombo" osm_id="28821470" coordinates="47.554628, -18.9388929" lines="194_maintso E_Alasora" />
+        <stop name="Arret_domaine_Alasora" osm_id="186254008" coordinates="47.5571753, -18.945686" lines="E_Alasora 163" />
+        <stop name="Arret_Ankadindratombo_Mandroseza" osm_id="28821470" coordinates="47.554628, -18.9388929" lines="194_maintso E-Alasora" />
+        <stop name="Arret_Shell_Mandroseza_Amohimiandra" osm_id="605943528" coordinates="47.5521225, -18.9369431" lines="015 194_maintso" />
+        <stop name="Arret_Jirama_mandroseza_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="015 194_maintso E_Alasora" />
+        <stop name="Arret_Ceg_Ambohimiandra" osm_id="28884220" coordinates="47.5499217, -18.9341382" lines="192 015 116" />
+        <stop name="Arret_Fiangonana_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122-139" />
+        <stop name="Arret_UCM_Ambatoroka" osm_id="28884376" coordinates="47.5435208, -18.9272334" lines="122 192 194" />
+        <stop name="Arret_Poste _Ambanidia" osm_id="28884526" coordinates="47.5404071, -18.9213479" lines="122 180 129 164" />
+        <stop name="Arret_Tfm_Ambanidia" osm_id="28884784" coordinates="47.5392896, -18.9186919" lines="122 180 192" />
+        <stop name="Arret_Pharmacie Hanitra _Antsakaviro" osm_id="402955431" coordinates="None" lines="122 180" />
+        <stop name="Arret_Scav_Antsakaviro" osm_id="301619097" coordinates="47.536571, -18.9117466" lines="122 160 166 180" />
+        <stop name="Arret_Stop_Antsapanimahazo" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166" />
+        <stop name="Arret_Epp_Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret-Tranobe" osm_id="28884793" coordinates="47.5331456, -18.9064128" lines="122" />
+        <stop name="Arret_Andravoahangy_Ambony" osm_id="183427323" coordinates="47.5324438, -18.9016693" lines="122 160 166 180" />
+        <stop name="Arret_Jesosy_Mamonjy_Ankorondrano" osm_id="E12" coordinates="None" lines="180" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arrêt_Analamahitsy_retour" osm_id="45822773" coordinates="47.5480085, -18.8756871" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_Analamahitsy_RDA" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 157, 186, 183" />
+        <stop name="Arrêt_ecole_analamahitsy" osm_id="430093441" coordinates="47.5515564, -18.8726571" lines="H, 192, 163" />
+        <stop name="Arrêt_Ambohitrarahaba_retour" osm_id="563180485" coordinates="47.5508489, -18.86376" lines="H, 109, 163" />
+        <stop name="Arrêt_TsenaKely_Ambohitrarahaba" osm_id="525150488" coordinates="47.5528782, -18.8564885" lines="H, 192, 163" />
+        <stop name="Arrêt_Manjaka_retour" osm_id="580822006" coordinates="47.5538989, -18.8542539" lines="H, 192, 163" />
+        </route>
+    <route id="tj_bus_193_ITAOSY_ANTANIVORY" color="red">
+        <stop name="Arret_Horizon_Itaosy" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_Hopitaly 133_Ambohimamory" />
+        <stop name="Arret_tetezana_Ampasika" osm_id="48926484" coordinates="47.4991359, -18.9100112" lines="133" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Jirama_Andavamamba" osm_id="28916404" coordinates="47.5088014, -18.9107162" lines="119 172 147 146 178" />
+        <stop name="Arret_Andavamamba_Vers_Anosy" osm_id="431446409" coordinates="47.5099398, -18.9164331" lines="119 183 147 146 178" />
+        <stop name="arret_Complexe_Ampefiloha" osm_id="31509525" coordinates="47.5130108, -18.9166146" lines="119 147 146 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="683253985" coordinates="47.5167263, -18.9136126" lines="119 182_manga 183 146 147" />
+        <stop name="Arrêt_Anosy_RNM" osm_id="178550874" coordinates="47.5184499, -18.9150482" lines="GA, 133, 140, 157, 109, 126, 183, 114, 119" />
+        <stop name="Arrêt_Anosy_face_Senat" osm_id="28914917" coordinates="47.5216878, -18.9184745" lines="109, 126, 183, 154, 162, 165, 105, 114, 172, 186, 180" />
+        <stop name="Arret_Mahamasina" osm_id="912627254" coordinates="47.5239881, -18.9178938" lines="119 147 178 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="591805476" coordinates="47.5283651, -18.9114551" lines="129 164 196 119 182_manga" />
+        <stop name="Arret_Mascotte" osm_id="384991852" coordinates="47.5335466, -18.9139416" lines="147" />
+        <stop name="Arrêt_Nane _Ampandrana" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arret_Total_Belair" osm_id="28884790" coordinates="47.5364574, -18.9098538" lines="122 160 166 180" />
+        <stop name="Arrêt_Fivondronana _Ampandrana" osm_id="301619098" coordinates="47.5365023, -18.9109968" lines="122 160 166 180" />
+        <stop name="Arret_Mascotte _Vers_Anosy" osm_id="40163139" coordinates="None" lines="119 147 146" />
+        <stop name="Arret_Ambohijatovo" osm_id="562410571" coordinates="47.5290274, -18.9114646" lines="129 164 196 147 146" />
+        <stop name="Arrêt_Anosy_zaridaina" osm_id="28915101" coordinates="47.5237116, -18.9174965" lines="109, 126,183, 186, 154, 119" />
+        <stop name="Arrêt_Anosy_Tribonaly" osm_id="28929839" coordinates="47.5214735, -18.9182049" lines="140, 015, 109, 193, 183" />
+        <stop name="Arrêt_Anosy_Carlton" osm_id="28929933" coordinates="47.5185358, -18.9149342" lines="140, 015, 109, 193, 183" />
+        <stop name="Arret_Fiaro_Ampefiloha" osm_id="569419828" coordinates="47.5182376, -18.9122618" lines="119 182_manga 133 146 147 183" />
+        <stop name="Arret_barrière_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 182_manga 147 146" />
+        <stop name="Arret_ENS_Ampefiloha" osm_id="414267257" coordinates="47.5150911, -18.9148143" lines="119 183 147 146 178" />
+        <stop name="Arret_Fiangonana_Andavamamba" osm_id="639908578" coordinates="47.5099761, -18.9163785" lines="119 147 146 183" />
+        <stop name="Arret_Fokontany_Andavamamba" osm_id="578006710" coordinates="47.5089534, -18.9125401" lines="119 147 146 183" />
+        <stop name="None" osm_id="None" coordinates="None" lines="None" />
+        <stop name="Arret_Trente_67ha" osm_id="28823665" coordinates="47.5088827, -18.9106623" lines="119 172" />
+        <stop name="Arret_Ampasika" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_Hopital" />
+        <stop name="Arret_Antaninkatsaka_Itaosy" osm_id="566309503" coordinates="47.4964725, -18.9102771" lines="133_cite 133_hopitaly 133_ambohimamory" />
+        </route>
+    </busRoutes>

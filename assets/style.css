@@ -1,0 +1,168 @@
+/* assets/style.css */
+.navbar-brand-custom {
+    color: #28a745; /* Couleur verte */
+    font-weight: bold; /* Texte en gras */
+}
+
+.nav-link-custom {
+    color: #28a745; /* Couleur verte */
+    font-weight: bold; /* Texte en gras */
+    margin: 0 10px;
+}
+.navbar-custom {
+    border-bottom: 3px solid #28a745; /* Bordure inférieure verte */
+}
+
+.nav-link-custom:hover {
+    color: white; /* Couleur du texte au survol */
+    background-color: #009345ba;; /* Fond vert au survol */
+}
+
+.nav-link-custom.active {
+    color: white; /* Couleur du texte quand actif */
+    background-color: #009345ba;; /* Fond vert au survol */
+}
+/*div du css*/
+.custom-div {
+    background-color: rgba(0, 147, 69, 0.43);
+    padding: 15px;
+    /*border-radius: 5px;*/
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #009345;
+}
+.custom-div:first-child {
+    margin-top: 0;
+}
+body {
+    height: 100vh;
+    /*overflow: hidden;*/
+}
+*{
+    font-family: "Roboto", "Arial", "Helvetica", sans-serif;
+}
+
+.legend-div{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    color: #009345;
+    border-bottom: 1px dashed #009345;
+    font-size: 1rem;
+}
+
+.legend-attribut-div{
+    display: flex; /* Flexbox pour alignement horizontal */
+    align-items: center; /* Alignement vertical des éléments */
+    padding: 4px 10px; /* Espacement interne */
+
+}
+/* Style pour la barre de défilement dans WebKit (Chrome, Edge, Safari) */
+.scroll-style::-webkit-scrollbar {
+    width: 11px; /* Largeur de la barre de défilement */
+    background-color: #f1f1f1; /* Couleur de l'arrière-plan du track */
+}
+
+.scroll-style::-webkit-scrollbar-thumb {
+    background-color: #88888880; /* Couleur de la barre de défilement */
+    border-radius: 10px; /* Arrondir les coins de la barre de défilement */
+    transition: background-color 0.3s ease;
+}
+
+.legend::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Couleur du track */
+}
+
+.legend::-webkit-scrollbar-thumb:hover {
+    background-color: #888; /* Couleur de la barre de défilement au survol */
+}
+
+/* Style pour le texte des éléments de la checklist */
+.dash-checklist label {
+    color: #333; /* Couleur du texte */
+    font-size: 14px; /* Taille de la police */
+    cursor: pointer;
+    padding: 10px;
+}
+.dash-checklist label:hover{
+    background-color: #ecf0f5;
+}
+.accordion-body{
+    padding: 0;
+}
+
+#map-col {
+    transition: width 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+#graph-col {
+    transition: width 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+
+/* Style pour la barre de navigation_page */
+.section-nav {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    font-weight: 1000;
+    margin-bottom: 10px;
+}
+
+.section-nav-item {
+    margin: 0 15px;
+    padding: 10px;
+    cursor: pointer;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+    border-bottom: 4px solid transparent;  /* Border transparent par défaut */
+    height: 50px;  /* Hauteur fixe pour éviter le changement de taille */
+    display: flex;
+    align-items: center;  /* Centrer verticalement le texte */
+    font-size: 1.3rem;
+    color: rgb(44, 62, 80);
+}
+
+.section-nav-item:hover {
+    color: rgb(44, 62, 80);
+    border-bottom: 4px solid black;  /* Changement de couleur du border-bottom sans changer la taille */
+}
+
+.section-nav-item--active {
+    color: rgb(44, 62, 80);
+    border-bottom: 4px solid black;  /* Border visible pour l'élément actif */
+}
+
+.kpi-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.kpi-item {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.kpi-title {
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.kpi-value {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.fas {
+    font-size: 20px;
+    margin-right: 5px;
+}
+

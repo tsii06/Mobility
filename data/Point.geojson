@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "C:\\Doc_Travail_Dominique\\AGETIPA_2024\\2024_4-PROJET SUMO Step2\\PDU_Plan_Circulation\\Documents\\PDU\\Rendu PDU Lova\\Points shp\\Point.geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Carrefour des deux ponts - RN7" }, "geometry": { "type": "Point", "coordinates": [ 5290870.880957864224911, -2149714.589354505296797 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Carrefour hydrocarbures CORA" }, "geometry": { "type": "Point", "coordinates": [ 5290212.893299816176295, -2141322.931719614192843 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Carrefour ou tunel d'Ambohijatovo" }, "geometry": { "type": "Point", "coordinates": [ 5291331.49877558182925, -2144897.28365376451984 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Carrefour d'Ampasapito" }, "geometry": { "type": "Point", "coordinates": [ 5292762.297832569107413, -2142764.842751526273787 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Carrefour d'Ankadimbahoaka" }, "geometry": { "type": "Point", "coordinates": [ 5290311.313649150542915, -2148251.512656070291996 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Carrefour de la circulaire" }, "geometry": { "type": "Point", "coordinates": [ 5291777.565197561867535, -2144798.86330442968756 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Name": "Carrefour digue - RN4" }, "geometry": { "type": "Point", "coordinates": [ 5285170.702392264269292, -2137218.908980714622885 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Name": "Carrefour entre Faliarivo et Ambatoroka" }, "geometry": { "type": "Point", "coordinates": [ 5292174.950586543418467, -2145674.592756839003414 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Name": "Carrefour RN4 - Hydrocarbures" }, "geometry": { "type": "Point", "coordinates": [ 5288144.743109644390643, -2140571.815128863789141 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Name": "Carrefour RN3" }, "geometry": { "type": "Point", "coordinates": [ 5293261.542991692200303, -2140043.731749103404582 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Name": "Connexion digue - RN4" }, "geometry": { "type": "Point", "coordinates": [ 5286112.839123391546309, -2139402.941195105202496 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Name": "Connexion hydrocarbures RN3 Nord 1" }, "geometry": { "type": "Point", "coordinates": [ 5289717.881274001672864, -2139676.507434920873493 ] } },
+{ "type": "Feature", "properties": { "id": 13, "Name": "Connexion hydrocarbures RN3 Nord 2" }, "geometry": { "type": "Point", "coordinates": [ 5289858.10381472017616, -2140078.125957203563303 ] } },
+{ "type": "Feature", "properties": { "id": 14, "Name": "Carrefour de La goulette" }, "geometry": { "type": "Point", "coordinates": [ 5290759.232066958211362, -2144379.518536435440183 ] } },
+{ "type": "Feature", "properties": { "id": 15, "Name": "Carrefour route d'Ivato à RN4" }, "geometry": { "type": "Point", "coordinates": [ 5283399.400675085373223, -2136123.850308959372342 ] } },
+{ "type": "Feature", "properties": { "id": 16, "Name": "Carrefour du MDRM" }, "geometry": { "type": "Point", "coordinates": [ 5290824.316491516306996, -2144442.486394344363362 ] } },
+{ "type": "Feature", "properties": { "id": 17, "Name": "Place Lénine" }, "geometry": { "type": "Point", "coordinates": [ 5290005.734338720329106, -2142846.595138474367559 ] } },
+{ "type": "Feature", "properties": { "id": 18, "Name": "Place Minault" }, "geometry": { "type": "Point", "coordinates": [ 5289707.298440739512444, -2142829.92717608762905 ] } },
+{ "type": "Feature", "properties": { "id": 19, "Name": "Rue Callet" }, "geometry": { "type": "Point", "coordinates": [ 5290231.148687195032835, -2143300.069543740712106 ] } },
+{ "type": "Feature", "properties": { "id": 20, "Name": "Rue Ramisaray" }, "geometry": { "type": "Point", "coordinates": [ 5290442.276210766285658, -2143322.293493590317667 ] } },
+{ "type": "Feature", "properties": { "id": 21, "Name": "Rue Rasamimanana" }, "geometry": { "type": "Point", "coordinates": [ 5290030.074855224229395, -2143281.020443869289011 ] } }
+]
+}
